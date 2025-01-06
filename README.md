@@ -1,23 +1,24 @@
-# Mouse-Slide-Navigator
+# Mouse Presentation Control
 
-Here’s a description you can use for your GitHub repository:
+This AutoHotkey script allows you to control your presentation slides using your wireless mouse. With this tool, you can move freely around the stage and focus on engaging your audience instead of worrying about your keyboard or presentation remote.
 
-Mouse-Presentation-Control is a simple AutoHotkey script designed to enhance your presentation experience by turning your wireless mouse into a slide navigation tool.
+## Features:
+- **Left-click**: Move to the next slide.
+- **Right-click**: Move to the previous slide.
+- **Toggle presentation mode**: Press **Ctrl + Alt + P** to enable or disable the slide control feature.
 
-With this script, you can:
+No extra devices are required—just your mouse and this simple script.
 
-Use the left mouse button to move to the next slide.
-Use the right mouse button to move to the previous slide.
-No need for a presentation remote or to rely on the keyboard—just control your slides from anywhere in the room, allowing you to focus entirely on engaging your audience.
+## How to Use:
+1. Download and install **AutoHotkey** from [https://www.autohotkey.com/](https://www.autohotkey.com/).
+2. Save the script as a `.ahk` file.
+3. Run the script by double-clicking the `.ahk` file.
+4. Press **Ctrl + Alt + P** to toggle presentation mode on or off.
+5. Once activated, use **Left-click** to move forward and **Right-click** to go backward through your slides.
 
-# Features:
+## Benefits:
+- Free yourself from standing near your laptop or relying on someone else to change the slides.
+- Ideal for presentations in classrooms, meetings, or conferences.
+- Works with any wireless mouse—no additional hardware needed.
 
-Toggle slide control mode with a customizable keyboard shortcut.
-Works with any wireless mouse, no extra hardware needed.
-Easy-to-use and lightweight solution for presenters of all levels.
-How to Use:
-
-Press Ctrl + Alt + P to enable slide navigation.
-Left-click for the next slide, right-click for the previous one.
-Press the shortcut again to disable the feature.
-Feel free to use and modify the script for your own presentations!
+Feel free to modify the script to suit your needs or integrate it into your own projects.
